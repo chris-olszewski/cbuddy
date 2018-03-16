@@ -1,10 +1,10 @@
-#cbuddy
+# cbuddy
 Program which gives suggestions for cribbage
 
-###Building:
+### Building:
 `make`
 
-###Use:
+### Use:
 ```
 cbuddy
 H5 D5 S5 C11 H1
